@@ -1,2 +1,3 @@
-# spark-fluff-examples
+# Spark Fluff Examples
+
 Examples for Spark Fluff
