@@ -56,7 +56,7 @@
 
         <!-- Import Spark Fluff -->
         <dependency>
-            <groupId>com.solomonronald.spark</groupId>
+            <groupId>com.github.solomonronald</groupId>
             <artifactId>spark-fluff</artifactId>
             <version>1.0.0</version>
         </dependency>
